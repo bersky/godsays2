@@ -1,0 +1,25 @@
+{
+    "versionLabel": "1.1",
+    "uuid": "36e63b2a-e707-4904-91ae-b66ecb7c77a5",
+    "appKeys": {},
+    "longName": "God Says...",
+    "versionCode": 1,
+    "capabilities": [
+        "location"
+    ],
+    "shortName": "God Says...",
+    "companyName": "berskyboy",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU",
+                "file": "images/bible.png"
+            }
+        ]
+    }
+}
